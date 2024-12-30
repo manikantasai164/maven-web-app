@@ -7,6 +7,5 @@
   <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
   
   <h3> Ameerpet, Hyderabad </h3>
-<p> This is test para </p>
 </body>
 </html>
